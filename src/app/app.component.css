@@ -1,0 +1,13 @@
+*{
+    font-family: cairo;
+}
+
+.head{
+    background-color:#556B2F;
+    color: white;
+    padding: 1rem;
+}
+
+input{
+    width: 50%;
+}
